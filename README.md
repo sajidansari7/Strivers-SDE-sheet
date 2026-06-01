@@ -9,4 +9,4 @@ This repository documents my DSA journey and internship preparation through Stri
 
 ### Goals
 -Strengthen Data Structures and Algorithms
--Improve problem solvind skills
+-Improve problem solving skills
