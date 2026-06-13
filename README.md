@@ -2,7 +2,7 @@
 Solutions to the Strivers SDE sheet DSA problems in C++
 
 ## About
-This repository documents my DSA journey and internship preparation through Strivers SDE sheet
+This repository documents my DSA revision journey for internship preparation through Strivers SDE sheet
 
 ## Language
 -C++
